@@ -1,0 +1,15 @@
+SASHA
+10
+7
+Vova
+10
+7
+EGOR
+10
+8
+Ovechkin
+10
+8
+NIKITA
+10
+9
